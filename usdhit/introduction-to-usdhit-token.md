@@ -1,5 +1,7 @@
 ---
 description: Introductive information on HIT token.
+cover: ../.gitbook/assets/GEjGbvuaAAIt-I5.jpeg
+coverY: -75
 ---
 
 # Introduction to $HIT Token
